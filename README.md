@@ -1,7 +1,7 @@
-# Progress Telerik AppBuilder Jenkins Plugin
+# Progress AppBuilder Jenkins Plugin
 
 ## Overview
-This plugin provides a simple way for Progress Telerik AppBuilder developers to execute cloud builds in a CI environment
+This plugin provides a simple way for Progress AppBuilder developers to execute cloud builds in a CI environment
 
 ### Dependencies
 * [Apache Maven][maven] 3.0.4 or later
